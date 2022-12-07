@@ -6,4 +6,4 @@ function numeros(num1, num2){
 }
 
 
-console.log(numeros(40, 40));
+console.log(numeros(10, 30));
